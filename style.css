@@ -1,0 +1,11 @@
+.box {
+  background: none;
+  width: 500px;
+  height: 500px;
+}
+.cirkle {
+  width: 33%;
+  height: 33%;
+  background-color: aqua;
+  border-radius: 50%;
+}
