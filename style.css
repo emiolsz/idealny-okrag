@@ -3,9 +3,9 @@
   width: 500px;
   height: 500px;
 }
-.cirkle {
+.circle {
   width: 33%;
-  height: 33%;
+  aspect-ratio: 1;
   background-color: aqua;
   border-radius: 50%;
 }
